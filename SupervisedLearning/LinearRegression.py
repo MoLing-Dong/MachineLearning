@@ -1,5 +1,5 @@
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 # 1. 准备数据 (模拟一些简单的线性数据)
 np.random.seed(43)  # 为了可重复性
